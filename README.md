@@ -1,0 +1,2 @@
+# McgOS
+Your next mothersystem.
